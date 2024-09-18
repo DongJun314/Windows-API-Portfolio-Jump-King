@@ -8,11 +8,32 @@
 
 ## 🌟 하이라이트
 
-| 프로젝트 환경  | 액션 시스템 |
-|-----------------|-------------|
-| ![게임 이미지 1](images.png) | ![게임 이미지 2](이미지_경로2) |
-| UI 오버레이 사용자 인터페이스 | 힐 딜러와 보스의 AI 연계 |
-| ![게임 이미지 3](이미지_경로3) | ![게임 이미지 4](이미지_경로4) |
+<table>
+  <tr>
+    <th style="text-align:center">엔딩씬</th>
+    <th style="text-align:center">차잉 점프</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/cf56f5fe-b9a6-45d7-b229-bf0417c279c4" width="200">
+    </td>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/173c492f-3b7e-4896-86f9-68eaad4607ef" width="200">
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align:center">바람 기믹</th>
+    <th style="text-align:center">빙판 기믹</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/0a4256ae-4ee8-4361-a7f7-8bfa00f85acf" width="200">
+    </td>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/cc9c850d-ea8a-4c08-a9bc-b418f8ab20cf" width="200">
+    </td>
+  </tr>
+</table>
 
 <br>
 
