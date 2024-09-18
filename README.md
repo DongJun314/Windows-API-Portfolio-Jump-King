@@ -15,10 +15,10 @@
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/cf56f5fe-b9a6-45d7-b229-bf0417c279c4" width="200">
+      <img src="https://github.com/user-attachments/assets/cf56f5fe-b9a6-45d7-b229-bf0417c279c4" width="400">
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/173c492f-3b7e-4896-86f9-68eaad4607ef" width="200">
+      <img src="https://github.com/user-attachments/assets/173c492f-3b7e-4896-86f9-68eaad4607ef" width="400">
     </td>
   </tr>
   <tr>
@@ -27,10 +27,10 @@
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/0a4256ae-4ee8-4361-a7f7-8bfa00f85acf" width="200">
+      <img src="https://github.com/user-attachments/assets/0a4256ae-4ee8-4361-a7f7-8bfa00f85acf" width="400">
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/cc9c850d-ea8a-4c08-a9bc-b418f8ab20cf" width="200">
+      <img src="https://github.com/user-attachments/assets/cc9c850d-ea8a-4c08-a9bc-b418f8ab20cf" width="400">
     </td>
   </tr>
 </table>
